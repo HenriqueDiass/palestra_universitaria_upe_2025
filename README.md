@@ -81,10 +81,14 @@ The application will open in your default web browser at `http://localhost:8501`
 ## 📱 Pages and Features
 
 ### Home Page
+
 - Main dashboard entry point
 - Overview of available analyses
 
 ### Genre Analysis
+<img width="1032" height="244" alt="image" src="https://github.com/user-attachments/assets/4a715f19-ec18-4f09-9547-f0129cc0525f" />
+<img width="739" height="284" alt="image" src="https://github.com/user-attachments/assets/d4dd5a98-4c18-41af-b2bd-024935efad75" />
+
 - Interactive visualization of game genres
 - Multiple chart types:
   - Pie Chart: Shows distribution of gaming hours by genre
@@ -92,11 +96,17 @@ The application will open in your default web browser at `http://localhost:8501`
   - Donut Chart: Alternative view of genre distribution
 
 ### Student Map
+<img width="1041" height="549" alt="image" src="https://github.com/user-attachments/assets/b27a1815-4efc-4909-a0f6-6c3d1162b9af" />
+<img width="1034" height="418" alt="image" src="https://github.com/user-attachments/assets/f89e8d87-6761-4074-a31a-729c3580c5eb" />
+
+
 - Geographic visualization of student distribution
 - Available in both 2D and 3D views
 - Interactive markers with student information
 
 ### Top Rank Analysis
+<img width="1365" height="492" alt="image" src="https://github.com/user-attachments/assets/2de0865f-c4c1-4fbc-ad55-0054c807d54f" />
+
 - Analysis of top-ranked games
 - Playing time statistics
 - Filterable data views
