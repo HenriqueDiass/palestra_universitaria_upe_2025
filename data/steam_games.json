@@ -1,0 +1,1051 @@
+[
+  {
+    "title": "Call of Duty: Black Ops",
+    "genre": "FPS",
+    "hours_avg": 120,
+    "price_brl": 89.99,
+    "year": 2010,
+    "metascore": 87,
+    "reviews_pos_pct": 82,
+    "platform": "Windows",
+    "tags": [
+      "shooter",
+      "multiplayer"
+    ]
+  },
+  {
+    "title": "Team Fortress 2",
+    "genre": "FPS",
+    "hours_avg": 450,
+    "price_brl": 0.0,
+    "year": 2010,
+    "metascore": 92,
+    "reviews_pos_pct": 91,
+    "platform": "Windows",
+    "tags": [
+      "multiplayer",
+      "classic"
+    ]
+  },
+  {
+    "title": "Fallout: New Vegas",
+    "genre": "RPG",
+    "hours_avg": 160,
+    "price_brl": 79.99,
+    "year": 2010,
+    "metascore": 84,
+    "reviews_pos_pct": 92,
+    "platform": "Windows",
+    "tags": [
+      "open world",
+      "story"
+    ]
+  },
+  {
+    "title": "Sid Meier’s Civilization V",
+    "genre": "Strategy",
+    "hours_avg": 200,
+    "price_brl": 59.99,
+    "year": 2010,
+    "metascore": 90,
+    "reviews_pos_pct": 95,
+    "platform": "Windows",
+    "tags": [
+      "strategy",
+      "turn-based"
+    ]
+  },
+  {
+    "title": "Amnesia: The Dark Descent",
+    "genre": "Horror",
+    "hours_avg": 50,
+    "price_brl": 39.99,
+    "year": 2010,
+    "metascore": 86,
+    "reviews_pos_pct": 94,
+    "platform": "Windows",
+    "tags": [
+      "indie",
+      "horror"
+    ]
+  },
+  {
+    "title": "The Elder Scrolls V: Skyrim",
+    "genre": "RPG",
+    "hours_avg": 400,
+    "price_brl": 79.9,
+    "year": 2011,
+    "metascore": 94,
+    "reviews_pos_pct": 97,
+    "platform": "Windows",
+    "tags": [
+      "open world",
+      "fantasy"
+    ]
+  },
+  {
+    "title": "Portal 2",
+    "genre": "Puzzle",
+    "hours_avg": 45,
+    "price_brl": 27.99,
+    "year": 2011,
+    "metascore": 95,
+    "reviews_pos_pct": 98,
+    "platform": "Windows",
+    "tags": [
+      "logic",
+      "co-op"
+    ]
+  },
+  {
+    "title": "Terraria",
+    "genre": "Sandbox",
+    "hours_avg": 190,
+    "price_brl": 19.99,
+    "year": 2011,
+    "metascore": 83,
+    "reviews_pos_pct": 97,
+    "platform": "Windows",
+    "tags": [
+      "indie",
+      "2d"
+    ]
+  },
+  {
+    "title": "Battlefield 3",
+    "genre": "FPS",
+    "hours_avg": 150,
+    "price_brl": 99.99,
+    "year": 2011,
+    "metascore": 89,
+    "reviews_pos_pct": 88,
+    "platform": "Windows",
+    "tags": [
+      "multiplayer",
+      "shooter"
+    ]
+  },
+  {
+    "title": "Minecraft",
+    "genre": "Sandbox",
+    "hours_avg": 500,
+    "price_brl": 99.9,
+    "year": 2011,
+    "metascore": 93,
+    "reviews_pos_pct": 98,
+    "platform": "Windows",
+    "tags": [
+      "craft",
+      "open world"
+    ]
+  },
+  {
+    "title": "Guild Wars 2",
+    "genre": "MMORPG",
+    "hours_avg": 300,
+    "price_brl": 0.0,
+    "year": 2012,
+    "metascore": 90,
+    "reviews_pos_pct": 93,
+    "platform": "Windows",
+    "tags": [
+      "online",
+      "fantasy"
+    ]
+  },
+  {
+    "title": "Far Cry 3",
+    "genre": "Action",
+    "hours_avg": 120,
+    "price_brl": 79.99,
+    "year": 2012,
+    "metascore": 91,
+    "reviews_pos_pct": 93,
+    "platform": "Windows",
+    "tags": [
+      "open world",
+      "shooter"
+    ]
+  },
+  {
+    "title": "Borderlands 2",
+    "genre": "Shooter",
+    "hours_avg": 250,
+    "price_brl": 89.99,
+    "year": 2012,
+    "metascore": 89,
+    "reviews_pos_pct": 95,
+    "platform": "Windows",
+    "tags": [
+      "co-op",
+      "looter shooter"
+    ]
+  },
+  {
+    "title": "Euro Truck Simulator 2",
+    "genre": "Simulation",
+    "hours_avg": 500,
+    "price_brl": 59.99,
+    "year": 2012,
+    "metascore": 79,
+    "reviews_pos_pct": 96,
+    "platform": "Windows",
+    "tags": [
+      "driving",
+      "relaxing"
+    ]
+  },
+  {
+    "title": "Dishonored",
+    "genre": "Action",
+    "hours_avg": 70,
+    "price_brl": 79.99,
+    "year": 2012,
+    "metascore": 91,
+    "reviews_pos_pct": 95,
+    "platform": "Windows",
+    "tags": [
+      "stealth",
+      "singleplayer"
+    ]
+  },
+  {
+    "title": "The Last of Us (Remastered)",
+    "genre": "Action",
+    "hours_avg": 100,
+    "price_brl": 199.9,
+    "year": 2013,
+    "metascore": 95,
+    "reviews_pos_pct": 96,
+    "platform": "Windows",
+    "tags": [
+      "story",
+      "survival"
+    ]
+  },
+  {
+    "title": "Dota 2",
+    "genre": "MOBA",
+    "hours_avg": 640,
+    "price_brl": 0.0,
+    "year": 2013,
+    "metascore": 85,
+    "reviews_pos_pct": 83,
+    "platform": "Windows",
+    "tags": [
+      "multiplayer",
+      "esports"
+    ]
+  },
+  {
+    "title": "BioShock Infinite",
+    "genre": "Action",
+    "hours_avg": 60,
+    "price_brl": 89.99,
+    "year": 2013,
+    "metascore": 94,
+    "reviews_pos_pct": 94,
+    "platform": "Windows",
+    "tags": [
+      "story",
+      "fps"
+    ]
+  },
+  {
+    "title": "Arma 3",
+    "genre": "Simulation",
+    "hours_avg": 280,
+    "price_brl": 149.99,
+    "year": 2013,
+    "metascore": 74,
+    "reviews_pos_pct": 86,
+    "platform": "Windows",
+    "tags": [
+      "military",
+      "sandbox"
+    ]
+  },
+  {
+    "title": "Payday 2",
+    "genre": "Shooter",
+    "hours_avg": 260,
+    "price_brl": 39.99,
+    "year": 2013,
+    "metascore": 79,
+    "reviews_pos_pct": 91,
+    "platform": "Windows",
+    "tags": [
+      "co-op",
+      "heist"
+    ]
+  },
+  {
+    "title": "Dark Souls II",
+    "genre": "Soulslike",
+    "hours_avg": 180,
+    "price_brl": 149.9,
+    "year": 2014,
+    "metascore": 91,
+    "reviews_pos_pct": 89,
+    "platform": "Windows",
+    "tags": [
+      "hardcore",
+      "rpg"
+    ]
+  },
+  {
+    "title": "The Sims 4",
+    "genre": "Simulation",
+    "hours_avg": 250,
+    "price_brl": 0.0,
+    "year": 2014,
+    "metascore": 70,
+    "reviews_pos_pct": 73,
+    "platform": "Windows",
+    "tags": [
+      "lifestyle",
+      "creative"
+    ]
+  },
+  {
+    "title": "DayZ",
+    "genre": "Survival",
+    "hours_avg": 220,
+    "price_brl": 129.99,
+    "year": 2014,
+    "metascore": 65,
+    "reviews_pos_pct": 68,
+    "platform": "Windows",
+    "tags": [
+      "survival",
+      "online"
+    ]
+  },
+  {
+    "title": "Divinity: Original Sin",
+    "genre": "RPG",
+    "hours_avg": 120,
+    "price_brl": 99.99,
+    "year": 2014,
+    "metascore": 89,
+    "reviews_pos_pct": 95,
+    "platform": "Windows",
+    "tags": [
+      "rpg",
+      "co-op"
+    ]
+  },
+  {
+    "title": "Goat Simulator",
+    "genre": "Simulation",
+    "hours_avg": 60,
+    "price_brl": 19.99,
+    "year": 2014,
+    "metascore": 62,
+    "reviews_pos_pct": 80,
+    "platform": "Windows",
+    "tags": [
+      "funny",
+      "sandbox"
+    ]
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "genre": "RPG",
+    "hours_avg": 200,
+    "price_brl": 99.99,
+    "year": 2015,
+    "metascore": 95,
+    "reviews_pos_pct": 96,
+    "platform": "Windows",
+    "tags": [
+      "story",
+      "open world"
+    ]
+  },
+  {
+    "title": "Cities: Skylines",
+    "genre": "Simulation",
+    "hours_avg": 260,
+    "price_brl": 89.99,
+    "year": 2015,
+    "metascore": 85,
+    "reviews_pos_pct": 94,
+    "platform": "Windows",
+    "tags": [
+      "city builder"
+    ]
+  },
+  {
+    "title": "GTA V",
+    "genre": "Action",
+    "hours_avg": 350,
+    "price_brl": 82.9,
+    "year": 2015,
+    "metascore": 97,
+    "reviews_pos_pct": 91,
+    "platform": "Windows",
+    "tags": [
+      "open world",
+      "crime"
+    ]
+  },
+  {
+    "title": "Rocket League",
+    "genre": "Sports",
+    "hours_avg": 250,
+    "price_brl": 0.0,
+    "year": 2015,
+    "metascore": 86,
+    "reviews_pos_pct": 92,
+    "platform": "Windows",
+    "tags": [
+      "multiplayer",
+      "physics"
+    ]
+  },
+  {
+    "title": "ARK: Survival Evolved",
+    "genre": "Survival",
+    "hours_avg": 410,
+    "price_brl": 79.99,
+    "year": 2015,
+    "metascore": 70,
+    "reviews_pos_pct": 72,
+    "platform": "Windows",
+    "tags": [
+      "craft",
+      "dinosaurs"
+    ]
+  },
+  {
+    "title": "Dark Souls III",
+    "genre": "Soulslike",
+    "hours_avg": 190,
+    "price_brl": 199.9,
+    "year": 2016,
+    "metascore": 89,
+    "reviews_pos_pct": 91,
+    "platform": "Windows",
+    "tags": [
+      "hardcore",
+      "rpg"
+    ]
+  },
+  {
+    "title": "Stardew Valley",
+    "genre": "Simulation",
+    "hours_avg": 210,
+    "price_brl": 24.99,
+    "year": 2016,
+    "metascore": 89,
+    "reviews_pos_pct": 98,
+    "platform": "Windows",
+    "tags": [
+      "indie",
+      "cozy"
+    ]
+  },
+  {
+    "title": "Dead by Daylight",
+    "genre": "Horror",
+    "hours_avg": 300,
+    "price_brl": 79.9,
+    "year": 2016,
+    "metascore": 83,
+    "reviews_pos_pct": 80,
+    "platform": "Windows",
+    "tags": [
+      "multiplayer",
+      "asymmetric"
+    ]
+  },
+  {
+    "title": "No Man’s Sky",
+    "genre": "Adventure",
+    "hours_avg": 85,
+    "price_brl": 149.99,
+    "year": 2016,
+    "metascore": 78,
+    "reviews_pos_pct": 76,
+    "platform": "Windows",
+    "tags": [
+      "space",
+      "exploration"
+    ]
+  },
+  {
+    "title": "Overwatch",
+    "genre": "FPS",
+    "hours_avg": 240,
+    "price_brl": 199.9,
+    "year": 2016,
+    "metascore": 91,
+    "reviews_pos_pct": 91,
+    "platform": "Windows",
+    "tags": [
+      "multiplayer",
+      "competitive"
+    ]
+  },
+  {
+    "title": "PUBG: Battlegrounds",
+    "genre": "Battle Royale",
+    "hours_avg": 280,
+    "price_brl": 0.0,
+    "year": 2017,
+    "metascore": 86,
+    "reviews_pos_pct": 73,
+    "platform": "Windows",
+    "tags": [
+      "multiplayer",
+      "survival"
+    ]
+  },
+  {
+    "title": "Hollow Knight",
+    "genre": "Metroidvania",
+    "hours_avg": 75,
+    "price_brl": 37.99,
+    "year": 2017,
+    "metascore": 90,
+    "reviews_pos_pct": 95,
+    "platform": "Windows",
+    "tags": [
+      "indie",
+      "soulslike"
+    ]
+  },
+  {
+    "title": "Fortnite",
+    "genre": "Battle Royale",
+    "hours_avg": 300,
+    "price_brl": 0.0,
+    "year": 2017,
+    "metascore": 81,
+    "reviews_pos_pct": 88,
+    "platform": "Windows",
+    "tags": [
+      "multiplayer",
+      "creative"
+    ]
+  },
+  {
+    "title": "Rainbow Six Siege",
+    "genre": "FPS",
+    "hours_avg": 350,
+    "price_brl": 99.99,
+    "year": 2017,
+    "metascore": 79,
+    "reviews_pos_pct": 87,
+    "platform": "Windows",
+    "tags": [
+      "tactical",
+      "multiplayer"
+    ]
+  },
+  {
+    "title": "Cuphead",
+    "genre": "Action",
+    "hours_avg": 40,
+    "price_brl": 36.99,
+    "year": 2017,
+    "metascore": 88,
+    "reviews_pos_pct": 94,
+    "platform": "Windows",
+    "tags": [
+      "indie",
+      "hard"
+    ]
+  },
+  {
+    "title": "Monster Hunter: World",
+    "genre": "Action",
+    "hours_avg": 180,
+    "price_brl": 249.9,
+    "year": 2018,
+    "metascore": 90,
+    "reviews_pos_pct": 92,
+    "platform": "Windows",
+    "tags": [
+      "co-op",
+      "rpg"
+    ]
+  },
+  {
+    "title": "Rust",
+    "genre": "Survival",
+    "hours_avg": 350,
+    "price_brl": 99.9,
+    "year": 2018,
+    "metascore": 82,
+    "reviews_pos_pct": 82,
+    "platform": "Windows",
+    "tags": [
+      "craft",
+      "pvp"
+    ]
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "genre": "Action",
+    "hours_avg": 150,
+    "price_brl": 249.9,
+    "year": 2018,
+    "metascore": 97,
+    "reviews_pos_pct": 95,
+    "platform": "Windows",
+    "tags": [
+      "story",
+      "open world"
+    ]
+  },
+  {
+    "title": "Subnautica",
+    "genre": "Adventure",
+    "hours_avg": 70,
+    "price_brl": 72.99,
+    "year": 2018,
+    "metascore": 87,
+    "reviews_pos_pct": 95,
+    "platform": "Windows",
+    "tags": [
+      "underwater",
+      "exploration"
+    ]
+  },
+  {
+    "title": "Among Us",
+    "genre": "Party",
+    "hours_avg": 90,
+    "price_brl": 10.49,
+    "year": 2018,
+    "metascore": 83,
+    "reviews_pos_pct": 89,
+    "platform": "Windows",
+    "tags": [
+      "multiplayer",
+      "social"
+    ]
+  },
+  {
+    "title": "Apex Legends",
+    "genre": "FPS",
+    "hours_avg": 220,
+    "price_brl": 0.0,
+    "year": 2019,
+    "metascore": 88,
+    "reviews_pos_pct": 79,
+    "platform": "Windows",
+    "tags": [
+      "battle royale",
+      "multiplayer"
+    ]
+  },
+  {
+    "title": "Sekiro: Shadows Die Twice",
+    "genre": "Soulslike",
+    "hours_avg": 90,
+    "price_brl": 199.9,
+    "year": 2019,
+    "metascore": 91,
+    "reviews_pos_pct": 92,
+    "platform": "Windows",
+    "tags": [
+      "hardcore",
+      "rpg"
+    ]
+  },
+  {
+    "title": "Slay the Spire",
+    "genre": "Card",
+    "hours_avg": 95,
+    "price_brl": 47.99,
+    "year": 2019,
+    "metascore": 89,
+    "reviews_pos_pct": 96,
+    "platform": "Windows",
+    "tags": [
+      "indie",
+      "roguelike"
+    ]
+  },
+  {
+    "title": "MORDHAU",
+    "genre": "Action",
+    "hours_avg": 150,
+    "price_brl": 74.99,
+    "year": 2019,
+    "metascore": 81,
+    "reviews_pos_pct": 88,
+    "platform": "Windows",
+    "tags": [
+      "melee",
+      "multiplayer"
+    ]
+  },
+  {
+    "title": "Destiny 2",
+    "genre": "Shooter",
+    "hours_avg": 240,
+    "price_brl": 0.0,
+    "year": 2019,
+    "metascore": 83,
+    "reviews_pos_pct": 80,
+    "platform": "Windows",
+    "tags": [
+      "online",
+      "fps"
+    ]
+  },
+  {
+    "title": "Valorant",
+    "genre": "FPS",
+    "hours_avg": 300,
+    "price_brl": 0.0,
+    "year": 2020,
+    "metascore": 80,
+    "reviews_pos_pct": 82,
+    "platform": "Windows",
+    "tags": [
+      "competitive",
+      "multiplayer"
+    ]
+  },
+  {
+    "title": "Hades",
+    "genre": "Roguelike",
+    "hours_avg": 55,
+    "price_brl": 47.49,
+    "year": 2020,
+    "metascore": 94,
+    "reviews_pos_pct": 93,
+    "platform": "Windows",
+    "tags": [
+      "indie",
+      "singleplayer"
+    ]
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "genre": "RPG",
+    "hours_avg": 95,
+    "price_brl": 199.9,
+    "year": 2020,
+    "metascore": 87,
+    "reviews_pos_pct": 84,
+    "platform": "Windows",
+    "tags": [
+      "open world",
+      "sci-fi"
+    ]
+  },
+  {
+    "title": "Phasmophobia",
+    "genre": "Horror",
+    "hours_avg": 120,
+    "price_brl": 49.99,
+    "year": 2020,
+    "metascore": 81,
+    "reviews_pos_pct": 91,
+    "platform": "Windows",
+    "tags": [
+      "co-op",
+      "ghost"
+    ]
+  },
+  {
+    "title": "Fall Guys",
+    "genre": "Party",
+    "hours_avg": 180,
+    "price_brl": 0.0,
+    "year": 2020,
+    "metascore": 80,
+    "reviews_pos_pct": 91,
+    "platform": "Windows",
+    "tags": [
+      "casual",
+      "multiplayer"
+    ]
+  },
+  {
+    "title": "Elden Ring",
+    "genre": "Soulslike",
+    "hours_avg": 110,
+    "price_brl": 249.9,
+    "year": 2022,
+    "metascore": 94,
+    "reviews_pos_pct": 93,
+    "platform": "Windows",
+    "tags": [
+      "hardcore",
+      "open world"
+    ]
+  },
+  {
+    "title": "God of War",
+    "genre": "Action",
+    "hours_avg": 60,
+    "price_brl": 199.9,
+    "year": 2022,
+    "metascore": 93,
+    "reviews_pos_pct": 96,
+    "platform": "Windows",
+    "tags": [
+      "story",
+      "action"
+    ]
+  },
+  {
+    "title": "Dying Light 2",
+    "genre": "Action",
+    "hours_avg": 70,
+    "price_brl": 249.9,
+    "year": 2022,
+    "metascore": 77,
+    "reviews_pos_pct": 79,
+    "platform": "Windows",
+    "tags": [
+      "zombies",
+      "open world"
+    ]
+  },
+  {
+    "title": "Stray",
+    "genre": "Adventure",
+    "hours_avg": 12,
+    "price_brl": 149.99,
+    "year": 2022,
+    "metascore": 83,
+    "reviews_pos_pct": 94,
+    "platform": "Windows",
+    "tags": [
+      "cat",
+      "indie"
+    ]
+  },
+  {
+    "title": "V Rising",
+    "genre": "Survival",
+    "hours_avg": 110,
+    "price_brl": 69.99,
+    "year": 2022,
+    "metascore": 81,
+    "reviews_pos_pct": 88,
+    "platform": "Windows",
+    "tags": [
+      "vampire",
+      "craft"
+    ]
+  },
+  {
+    "title": "Counter-Strike 2",
+    "genre": "FPS",
+    "hours_avg": 820,
+    "price_brl": 0.0,
+    "year": 2023,
+    "metascore": 88,
+    "reviews_pos_pct": 86,
+    "platform": "Windows",
+    "tags": [
+      "multiplayer",
+      "competitive"
+    ]
+  },
+  {
+    "title": "Baldur’s Gate 3",
+    "genre": "RPG",
+    "hours_avg": 120,
+    "price_brl": 299.9,
+    "year": 2023,
+    "metascore": 96,
+    "reviews_pos_pct": 95,
+    "platform": "Windows",
+    "tags": [
+      "story",
+      "rpg"
+    ]
+  },
+  {
+    "title": "Lethal Company",
+    "genre": "Horror",
+    "hours_avg": 60,
+    "price_brl": 39.99,
+    "year": 2023,
+    "metascore": 84,
+    "reviews_pos_pct": 90,
+    "platform": "Windows",
+    "tags": [
+      "indie",
+      "co-op"
+    ]
+  },
+  {
+    "title": "Resident Evil 4 Remake",
+    "genre": "Horror",
+    "hours_avg": 35,
+    "price_brl": 249.9,
+    "year": 2023,
+    "metascore": 93,
+    "reviews_pos_pct": 96,
+    "platform": "Windows",
+    "tags": [
+      "remake",
+      "action"
+    ]
+  },
+  {
+    "title": "Starfield",
+    "genre": "RPG",
+    "hours_avg": 90,
+    "price_brl": 299.9,
+    "year": 2023,
+    "metascore": 83,
+    "reviews_pos_pct": 69,
+    "platform": "Windows",
+    "tags": [
+      "space",
+      "open world"
+    ]
+  },
+  {
+    "title": "Palworld",
+    "genre": "Survival",
+    "hours_avg": 68,
+    "price_brl": 129.99,
+    "year": 2024,
+    "metascore": 81,
+    "reviews_pos_pct": 78,
+    "platform": "Windows",
+    "tags": [
+      "early access",
+      "craft"
+    ]
+  },
+  {
+    "title": "Helldivers 2",
+    "genre": "Shooter",
+    "hours_avg": 140,
+    "price_brl": 199.9,
+    "year": 2024,
+    "metascore": 82,
+    "reviews_pos_pct": 89,
+    "platform": "Windows",
+    "tags": [
+      "co-op",
+      "shooter"
+    ]
+  },
+  {
+    "title": "Black Myth: Wukong",
+    "genre": "Action",
+    "hours_avg": 70,
+    "price_brl": 249.9,
+    "year": 2024,
+    "metascore": 82,
+    "reviews_pos_pct": 87,
+    "platform": "Windows",
+    "tags": [
+      "action",
+      "soulslike"
+    ]
+  },
+  {
+    "title": "Manor Lords",
+    "genre": "Strategy",
+    "hours_avg": 60,
+    "price_brl": 89.99,
+    "year": 2024,
+    "metascore": 76,
+    "reviews_pos_pct": 84,
+    "platform": "Windows",
+    "tags": [
+      "strategy",
+      "city builder"
+    ]
+  },
+  {
+    "title": "Hades II (EA)",
+    "genre": "Roguelike",
+    "hours_avg": 50,
+    "price_brl": 89.99,
+    "year": 2024,
+    "metascore": 90,
+    "reviews_pos_pct": 95,
+    "platform": "Windows",
+    "tags": [
+      "roguelike",
+      "early access"
+    ]
+  },
+  {
+    "title": "Hollow Knight: Silksong",
+    "genre": "Metroidvania",
+    "hours_avg": 80,
+    "price_brl": 129.99,
+    "year": 2025,
+    "metascore": 92,
+    "reviews_pos_pct": 96,
+    "platform": "Windows",
+    "tags": [
+      "indie",
+      "metroidvania"
+    ]
+  },
+  {
+    "title": "Clair Obscur: Expedition 33",
+    "genre": "RPG",
+    "hours_avg": 40,
+    "price_brl": 249.9,
+    "year": 2025,
+    "metascore": 85,
+    "reviews_pos_pct": 88,
+    "platform": "Windows",
+    "tags": [
+      "rpg",
+      "turn-based"
+    ]
+  },
+  {
+    "title": "Blue Prince",
+    "genre": "Puzzle",
+    "hours_avg": 30,
+    "price_brl": 99.99,
+    "year": 2025,
+    "metascore": 82,
+    "reviews_pos_pct": 90,
+    "platform": "Windows",
+    "tags": [
+      "puzzle",
+      "indie"
+    ]
+  },
+  {
+    "title": "Monster Hunter Wilds",
+    "genre": "Action",
+    "hours_avg": 120,
+    "price_brl": 299.9,
+    "year": 2025,
+    "metascore": 88,
+    "reviews_pos_pct": 90,
+    "platform": "Windows",
+    "tags": [
+      "action",
+      "co-op"
+    ]
+  },
+  {
+    "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "genre": "FPS",
+    "hours_avg": 100,
+    "price_brl": 249.9,
+    "year": 2025,
+    "metascore": 84,
+    "reviews_pos_pct": 80,
+    "platform": "Windows",
+    "tags": [
+      "fps",
+      "survival"
+    ]
+  }
+]
