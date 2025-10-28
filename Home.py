@@ -38,7 +38,7 @@ with col1:
         Esta visualização usa 'HexagonLayer' do PyDeck para agrupar
         alunos por região, mostrando "prédios" 3D onde há maior densidade.
         """)
-        st.link_button("Ir para o Mapa 3D", url="student_map_3d")
+        st.page_link("pages/student_map_3d.py", label="Ir para o Mapa 3D", icon="🗺️")
 
 
 with col2:
@@ -49,7 +49,7 @@ with col2:
         usa 'ScatterplotLayer' para plotar um ponto para cada aluno,
         permitindo ver a distribuição exata e filtrar por campus.
         """)
-        st.link_button("Ir para o Mapa de Estudantes", url="student_map")
+        st.page_link("pages/student_map.py", label="Ir para o Mapa de Estudantes", icon="📍")
 
 
 col3, col4 = st.columns(2)
@@ -62,7 +62,7 @@ with col3:
         Escolha entre gráficos de Pizza (Pie-chart), Mapa de Árvore (Treemap)
         ou Rosca (Donut) para ver quais categorias são mais jogadas.
         """)
-        st.link_button("Ir para Análise de Gênero", url="genre_analysis")
+        st.page_link("pages/genre_analysis.py", label="Ir para Análise de Gênero", icon="📊")
 
 with col4:
     with st.container(border=True):
@@ -72,5 +72,5 @@ with col4:
         Este painel inclui um gráfico de barras e KPIs (Metascore,
         Preço Médio e Total de Horas) para uma análise rápida.
         """)
-        st.link_button("Ir para o Top 10", url="top_rank_analysis")
+        st.page_link("pages/top_rank_analysis.py", label="Ir para o Top 10", icon="🏆")
 
